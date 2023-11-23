@@ -40,4 +40,4 @@ To explore a particular assignment, navigate to its corresponding folder in this
 To clone this repository locally, use the following command:
 
 ```bash
-git clone https://github.com/your-username/exceler-data-science-assignments.git
+git clone https://github.com/Ablu876/exceler-data-science-assignments.git
