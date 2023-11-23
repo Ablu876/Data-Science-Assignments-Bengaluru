@@ -1,4 +1,4 @@
-# Exceler Data Science Assignments
+# ExceLR Data Science Assignments
 
 This repository contains 18 data science assignments completed as part of the Exceler program. Each assignment focuses on different areas of data science, including statistics, machine learning algorithms, and predictive modeling.
 
