@@ -1,38 +1,43 @@
-# Excel-Based Data Science Assignments
+# Exceler Data Science Assignments
 
-## Description
-This repository contains 18 Excel-based data science assignments completed as part of a data analysis course or curriculum. Each assignment focuses on different aspects of data manipulation, analysis, visualization, and interpretation using Microsoft Excel.
+This repository contains 18 data science assignments completed as part of the Exceler program. Each assignment focuses on different areas of data science, including statistics, machine learning algorithms, and predictive modeling.
+
+## Assignments List
+
+1. **Basic Statistics_Level 1**
+2. **Basic Statistics_Level-2**
+3. **Hypothesis Testing**
+4. **Simple Linear Regression**
+5. **Multi Linear Regression**
+6. **Logistic Regression**
+7. **Clustering**
+8. **PCA (Principal Component Analysis)**
+9. **Association Rules**
+10. **Recommendation System**
+11. **Text Mining**
+12. **Naive Bayes**
+13. **KNN (K-Nearest Neighbors)**
+14. **Decision Trees**
+15. **Random Forest**
+16. **Neural Networks**
+17. **Support Vector Machine**
+18. **Forecasting**
 
 ## Folder Structure
-- Each assignment is organized into its own folder for clarity and ease of access.
-- Assignments are labeled numerically for easy identification (e.g., Assignment_1, Assignment_2, ..., Assignment_18).
 
-## Contents
-Each assignment folder typically includes the following:
-- Excel file(s) containing the main dataset(s) and analysis.
-- README.md file (if applicable) providing specific instructions or explanations related to the assignment.
-- Supporting documents, if necessary (e.g., supplementary data, documentation).
+Each assignment is organized into a separate folder within this repository. Inside each assignment folder, you'll find:
+
+- Assignment-specific code (e.g., Python notebooks, R scripts).
+- Data files or datasets used for analysis.
+- README or documentation explaining the assignment, methods used, and observations.
 
 ## Usage
-- Clone or download the repository to access the assignments locally.
-- Open each assignment folder to explore the Excel files and supporting documents.
-- Follow the provided README.md (if available) for additional guidance or instructions for each assignment.
 
-## Assignments Overview
-1. Assignment_1: Introduction to Data Manipulation in Excel
-2. Assignment_2: Data Visualization using Charts and Graphs
-3. ...
-   (List all 18 assignments, providing a brief overview or focus of each)
+To explore a particular assignment, navigate to its corresponding folder in this repository. Follow the instructions provided in the README or documentation file within each assignment folder to understand the task, execute the code, and view the results.
 
 ## Getting Started
-Ensure you have Microsoft Excel installed to view and work with the assignments. Some assignments may require specific Excel versions or additional plugins/packages (if mentioned in the respective README.md).
 
-## Feedback and Contributions
-Feedback and contributions are welcome! Feel free to open an issue or pull request if you notice errors, have suggestions, or want to contribute improvements to the assignments.
+To clone this repository locally, use the following command:
 
-## License
-This repository is under [License Name] (if applicable). Please refer to the LICENSE file for more details.
-
----
-
-**Note:** Replace [License Name] with the appropriate license information, and update the sections as per your specific repository structure and requirements.
+```bash
+git clone https://github.com/your-username/exceler-data-science-assignments.git
